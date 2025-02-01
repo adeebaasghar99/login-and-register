@@ -16,7 +16,8 @@ if (c[0] === email) {
     alert("Login successful!🌟");
 }
 else if (c[1] === email) {
-    alert("Invalid email or password.");
+    alert("successful");
+    
 }
 else {
     alert("Invalid email")
